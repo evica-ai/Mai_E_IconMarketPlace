@@ -24,9 +24,10 @@ body { font-size: 16px; }
 {
   display: flex;
   flex-direction: column;
-  justify-content: flex-end;
+  justify-content: center;
   align-content: center;
   text-align: right;
+  margin-bottom: 10px;
 }
 
 #summary

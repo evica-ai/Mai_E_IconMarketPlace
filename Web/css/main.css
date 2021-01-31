@@ -1,4 +1,14 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
 body { font-size: 16px; }
+p { color: #fff;
+    line-height: 50px;
+    text-align: center;
+    background: #fff;
+    margin: 0;
+}
 
   .icon-holder {width: 100%; margin: 0 auto; text-align: center; }
 
